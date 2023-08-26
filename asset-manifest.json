@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CloudCast/static/css/main.6f095619.css",
+    "main.js": "/CloudCast/static/js/main.53d12538.js",
+    "static/media/night2.jpg": "/CloudCast/static/media/night2.2ad56adb1ed56a62ab22.jpg",
+    "index.html": "/CloudCast/index.html",
+    "main.6f095619.css.map": "/CloudCast/static/css/main.6f095619.css.map",
+    "main.53d12538.js.map": "/CloudCast/static/js/main.53d12538.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f095619.css",
+    "static/js/main.53d12538.js"
+  ]
+}
